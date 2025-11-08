@@ -21,3 +21,4 @@ Notes and usage details for remindb.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
