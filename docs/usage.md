@@ -33,3 +33,4 @@ Notes and usage details for remindb.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
