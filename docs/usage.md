@@ -35,3 +35,4 @@ Notes and usage details for remindb.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
